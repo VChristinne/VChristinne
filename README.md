@@ -4,6 +4,7 @@
 ### Main skills
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white&color=black&labelColor=orange)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&color=black&labelColor=blue)
+![C](https://img.shields.io/badge/c-3670A0?style=for-the-badge&logo=c&logoColor=white&color=black&labelColor=navy)
 
 
 ### Tools
