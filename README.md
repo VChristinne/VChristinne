@@ -1,5 +1,5 @@
 # About me
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9DA7D4&height=120&section=header&animation=fadeIn&text=I+Want+To+Believe&fontSize=45&fontColor=9DA7D4"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9DA7D4&height=120&section=header&text=I+Want+To+Believe&fontSize=45&fontColor=9DA7D4"/>
 
 ### Main Languages
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white&color=black&labelColor=orange)
