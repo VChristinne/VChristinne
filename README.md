@@ -24,6 +24,3 @@
 ### OS
 ![macOS](https://img.shields.io/badge/mac%20os-white?style=for-the-badge&logo=macos&logoColor=white&color=black&labelColor=black)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white&color=black&labelColor=black)
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=VChristinne">
