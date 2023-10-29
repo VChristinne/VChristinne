@@ -1,12 +1,12 @@
 # About me
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9DA7D4&height=120&section=header&animation=fadeIn&text=I+Want+To+Believe&fontSize=45&fontColor=9DA7D4"/>
 
-### Main skills:
+### Main skills
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white&color=black&labelColor=orange)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&color=black&labelColor=blue)
 
 
-### Tools:
+### Tools
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white&color=black&labelColor=blue)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=black&labelColor=blue)
