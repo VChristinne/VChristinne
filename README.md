@@ -4,7 +4,6 @@
 ### Main skills:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white&color=black&labelColor=orange)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&color=black&labelColor=blue)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&color=black&labelColor=blue)
 
 
 ### Tools:
@@ -16,10 +15,10 @@
 
 
 ### Study
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black&color=black&labelColor=green)
 ![Exercism](https://img.shields.io/badge/Exercism-7128E4?style=for-the-badge&logo=exercism&logoColor=white&color=black&labelColor=indigo)
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white&color=black&labelColor=gray)
 ![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?style=for-the-badge&logo=pluralsight&logoColor=white&color=black&labelColor=hotpink)
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black&color=black&labelColor=green)
 
 
 ### OS
