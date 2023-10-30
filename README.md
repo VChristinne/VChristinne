@@ -11,9 +11,13 @@
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white&color=black&labelColor=blue)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=black&labelColor=blue)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=black&labelColor=black)
 ![Safari](https://img.shields.io/badge/Safari-2692FB?style=for-the-badge&logo=Safari&logoColor=white&color=black&labelColor=blue)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&color=black&labelColor=black)
+
+### In Progress
+![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white&color=black&labelColor=9071c3)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&color=black&labelColor=092e20)
+
 
 ### Study
 ![Exercism](https://img.shields.io/badge/Exercism-7128E4?style=for-the-badge&logo=exercism&logoColor=white&color=black&labelColor=indigo)
