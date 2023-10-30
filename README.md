@@ -22,6 +22,7 @@
 ### In Progress
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white&color=black&labelColor=9071c3)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&color=black&labelColor=092e20)
+![PHP](https://img.shields.io/badge/php-%23092E20.svg?style=for-the-badge&logo=PHP&logoColor=white&color=black&labelColor=3300CC)
 
 
 ### Study
