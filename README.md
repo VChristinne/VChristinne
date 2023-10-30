@@ -1,12 +1,10 @@
 # About me
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003399&height=120&section=header"/>
 
-
 ### Main Skills
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white&color=black&labelColor=orange)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&color=black&labelColor=blue)
 ![C](https://img.shields.io/badge/c-3670A0?style=for-the-badge&logo=c&logoColor=white&color=black&labelColor=navy)
-
 
 ### Tools
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white&color=black&labelColor=blue)
@@ -16,18 +14,15 @@
 ![Safari](https://img.shields.io/badge/Safari-2692FB?style=for-the-badge&logo=Safari&logoColor=white&color=black&labelColor=blue)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&color=black&labelColor=black)
 
-
 ### Study
 ![Exercism](https://img.shields.io/badge/Exercism-7128E4?style=for-the-badge&logo=exercism&logoColor=white&color=black&labelColor=indigo)
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white&color=black&labelColor=black)
 ![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?style=for-the-badge&logo=pluralsight&logoColor=white&color=black&labelColor=hotpink)
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black&color=black&labelColor=green)
 
-
 ### OS
 ![macOS](https://img.shields.io/badge/mac%20os-white?style=for-the-badge&logo=macos&logoColor=white&color=black&labelColor=black)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white&color=black&labelColor=black)
-
 
 ### Github Stats
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=VChristinne&theme=tokyonight" />
