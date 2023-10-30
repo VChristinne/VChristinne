@@ -15,8 +15,8 @@
 
 ### Languages & Frameworks
 ![C](https://img.shields.io/badge/C-%23000000.svg?style=for-the-badge&logo=C&logoColor=white&color=black&labelColor=blue)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=black&labelColor=3366CC)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=black&labelColor=3366CC)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=black&labelColor=indigo)
 
 ### In Progress
