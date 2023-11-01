@@ -36,6 +36,6 @@
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white&color=black&labelColor=black)
 
 ### Github Stats
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=VChristinne&theme=tokyonight" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=VChristinne&theme=tokyonight"/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003399&height=120&section=footer"/>
