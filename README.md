@@ -12,9 +12,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=black&labelColor=0078d7)
 ![Safari](https://img.shields.io/badge/Safari-2692FB?style=for-the-badge&logo=Safari&logoColor=white&color=black&labelColor=006CFF)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&color=black&labelColor=black)
-![Exercism](https://img.shields.io/badge/Exercism-7128E4?style=for-the-badge&logo=exercism&logoColor=white&color=black&labelColor=indigo)
-![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?style=for-the-badge&logo=pluralsight&logoColor=white&color=black&labelColor=hotpink)
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black&color=black&labelColor=green)
 
 ### Languages & Frameworks
 ![C](https://img.shields.io/badge/C-%23000000.svg?style=for-the-badge&logo=C&logoColor=white&color=black&labelColor=blue)
