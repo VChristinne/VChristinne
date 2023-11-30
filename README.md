@@ -18,7 +18,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-Code?style=for-the-badge&logo=mysql&logoColor=white&color=black&labelColor=3366CC)
 
 ### In Progress
-![Elixir](https://img.shields.io/badge/elixir-Code?style=for-the-badge&logo=elixir&logoColor=white&color=black&labelColor=9071c3)
+![C++](https://img.shields.io/badge/C%2B%2B-Code?style=for-the-badge&logo=C%2B%2B&logoColor=white&color=black&labelColor=9071c3)
 ![Django](https://img.shields.io/badge/django-Code?style=for-the-badge&logo=django&logoColor=white&color=black&labelColor=092e20)
 
 ### OS
