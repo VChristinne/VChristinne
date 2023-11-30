@@ -15,12 +15,13 @@
 
 ### Languages & Frameworks
 ![C](https://img.shields.io/badge/C-Code?style=flat&logo=C&logoColor=white&color=f6f6f6&labelColor=blue)
+![PHP](https://img.shields.io/badge/PHP-Code?style=flat&logo=PHP&logoColor=white&color=f6f6f6&labelColor=purple)
+![Django](https://img.shields.io/badge/Django-Code?style=flat&logo=django&logoColor=white&color=f6f6f6&labelColor=092e20)
 ![Markdown](https://img.shields.io/badge/Markdown-Code?style=flat&logo=markdown&logoColor=white&color=f6f6f6&labelColor=gray)
 ![MySQL](https://img.shields.io/badge/MySQL-Code?style=flat&logo=mysql&logoColor=white&color=f6f6f6&labelColor=3366CC)
 
 ### In Progress
 ![C++](https://img.shields.io/badge/C%2B%2B-Code?style=flat&logo=C%2B%2B&logoColor=white&color=f6f6f6&labelColor=9071c3)
-![Django](https://img.shields.io/badge/Django-Code?style=flat&logo=django&logoColor=white&color=f6f6f6&labelColor=092e20)
 
 ### OS
 ![macOS](https://img.shields.io/badge/macOS-Code?style=flat&logo=macos&logoColor=white&color=f6f6f6&labelColor=black)
