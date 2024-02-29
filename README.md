@@ -21,6 +21,7 @@
 
 ### In Progress
 ![C++](https://img.shields.io/badge/C%2B%2B-Code?style=flat&logo=C%2B%2B&logoColor=white&color=f6f6f6&labelColor=9071c3)
+![Arduino](https://img.shields.io/badge/Arduino-Code?style=flat&logo=Arduino&logoColor=white&color=f6f6f6&labelColor=00979d)
 ![Reflex](https://img.shields.io/badge/Reflex-Code?style=flat&logo=framework&logoColor=white&color=f6f6f6&labelColor=gray)
 
 
