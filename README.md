@@ -30,6 +30,6 @@
 ![iOS](https://img.shields.io/badge/iOS-Code?style=flat&logo=ios&logoColor=white&color=f6f6f6&labelColor=black)
 
 ### Roadmaps
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/655494c468ca602613326698?variant=light&roadmaps=backend%2Cpython%2Ccomputer-science%2Ccpp)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/655494c468ca602613326698?variant=light&roadmaps=python%2Cbackend%2Ccpp%2Cdatastructures-and-algorithms)](https://roadmap.sh)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003399&height=120&section=footer"/>
