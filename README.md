@@ -17,8 +17,8 @@
 ![Postman](https://img.shields.io/badge/Postman-Code.svg?style=flat&logo=postman&logoColor=white&color=f6f6f6&labelColor=orange)
 
 ### Git Status
-[![VChristinne's github streak](https://github-readme-streak-stats.herokuapp.com/?user=VChristinne&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![VChristinne's github streak](https://github-readme-streak-stats.herokuapp.com/?user=VChristinne&theme=shadow_blue)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-[![VChristinne's github stats](https://github-readme-stats.vercel.app/api?username=VChristinne&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![VChristinne's github stats](https://github-readme-stats.vercel.app/api?username=VChristinne&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003399&height=120&section=footer"/>
