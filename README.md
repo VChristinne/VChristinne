@@ -16,7 +16,9 @@
 ![CLion](https://img.shields.io/badge/CLion-Code?style=flat&logo=clion&logoColor=black&color=f6f6f6&labelColor=ff62b7)
 ![Postman](https://img.shields.io/badge/Postman-Code.svg?style=flat&logo=postman&logoColor=white&color=f6f6f6&labelColor=orange)
 
-### Roadmaps
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/655494c468ca602613326698?variant=light&roadmaps=python%2Cbackend%2Ccpp%2Cdatastructures-and-algorithms)](https://roadmap.sh)
+### Git Status
+[![VChristinne's github streak](https://github-readme-streak-stats.herokuapp.com/?user=VChristinne&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+[![VChristinne's github stats](https://github-readme-stats.vercel.app/api?username=VChristinne&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003399&height=120&section=footer"/>
