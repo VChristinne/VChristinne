@@ -1,5 +1,4 @@
 # About me
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003399&height=120&section=header"/>
 
 ### Skills
 ![Python](https://img.shields.io/badge/Python-Code?style=flat&logo=python&logoColor=white&color=f6f6f6&labelColor=blue)
