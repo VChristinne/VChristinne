@@ -17,5 +17,3 @@
 
 ### Git Status
 [![VChristinne's github stats](https://github-readme-stats.vercel.app/api?username=VChristinne&theme=shadow_blue&include_all_commits=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003399&height=120&section=footer"/>
