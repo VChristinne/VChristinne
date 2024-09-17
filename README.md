@@ -14,4 +14,4 @@
 ![Postman](https://img.shields.io/badge/Postman-Code.svg?style=flat&logo=postman&logoColor=white&color=f6f6f6&labelColor=orange)
 
 ### Git Status
-[![VChristinne's github stats](https://github-readme-stats.vercel.app/api?username=VChristinne&theme=shadow_blue&include_all_commits=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+[![VChristinne's github stats](https://github-readme-stats.vercel.app/api?username=VChristinne&theme=shadow_blue&include_all_commits=true&issues=true)](https://github.com/anuraghazra/github-readme-stats)
