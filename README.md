@@ -2,8 +2,8 @@
 
 ### Skills
 ![Python](https://img.shields.io/badge/Python-Code?style=flat&logo=python&logoColor=white&color=f6f6f6&labelColor=blue)
+![Reflex](https://img.shields.io/badge/Reflex-Code?style=flat&logo=tool&color=f6f6f6)
 ![Django](https://img.shields.io/badge/Django-Code?style=flat&logo=django&logoColor=white&color=f6f6f6&labelColor=092e20)
-![C++](https://img.shields.io/badge/C%2B%2B-Code?style=flat&logo=C%2B%2B&logoColor=white&color=f6f6f6&labelColor=9071c3)
 ![Swift](https://img.shields.io/badge/Swift-Code?style=flat&logo=swift&logoColor=white&color=f6f6f6&labelColor=orange)
 ![MySQL](https://img.shields.io/badge/MySQL-Code?style=flat&logo=mysql&logoColor=white&color=f6f6f6&labelColor=3366CC)
 
