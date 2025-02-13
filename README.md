@@ -1,10 +1,10 @@
 # About me
 
 ### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-Code?style=flat&logo=python&logoColor=white&color=f6f6f6&labelColor=yellow)
+![Swift](https://img.shields.io/badge/Swift-Code?style=flat&logo=swift&logoColor=white&color=f6f6f6&labelColor=orange)
+![Python](https://img.shields.io/badge/Python-Code?style=flat&logo=python&logoColor=white&color=f6f6f6&labelColor=blue)
 ![Reflex](https://img.shields.io/badge/Reflex-Code?style=flat&logo=framework&color=f6f6f6&labelColor=purple)
 ![Django](https://img.shields.io/badge/Django-Code?style=flat&logo=django&logoColor=white&color=f6f6f6&labelColor=092e20)
-![C++](https://img.shields.io/badge/C++-Code?style=flat&logo=c%2B%2B&&logoColor=white&color=f6f6f6&labelColor=blue)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-Code?style=flat&logo=git&logoColor=white&color=f6f6f6&labelColor=red)
