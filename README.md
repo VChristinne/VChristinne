@@ -1,5 +1,5 @@
 # Hey, I'm Chris — Data Engineering in Progress
->  Curious about the origin of data and what can be uncovered from it through pipelines.
+>  Curious about the origin of data and what can be uncovered from it.
 
 ```yaml
 data_engineer_profile:
