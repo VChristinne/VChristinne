@@ -6,9 +6,9 @@ data_engineer_profile:
   source: "ADS Degree"
   extract: ["Python", "SQL", "APIs"]
   transform: ["Pandas"]
-  load: ["MySQL"]
+  load: ["CouchDB"]
   monitor: ["Grafana"]
-  current_status: "Improving SQL"
+  current_status: "Improving ETL"
 ```
 
 ## 🧰 Tech Stack
@@ -18,18 +18,14 @@ data_engineer_profile:
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ## 🧭 Learning Roadmap
 
-- **SQL**: JOINs, Window Funcs, Subqueries
-- **Orchestration**: Airflow
-- **Cloud**: AWS S3, Snowflake
-- **Testing**: dbt Core
-- **Streams**: Kafka, Spark
+- **SQL**: Window Funcs, Subqueries
+- **Cloud**: Snowflake
+- **Streams**: Spark
 
 ## 📊 GitHub Stats
 [![Chris's github stats](https://github-readme-stats.vercel.app/api?username=VChristinne&theme=nord&include_all_commits=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
