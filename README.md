@@ -1,5 +1,17 @@
 # Hey, I'm Chris
 
-## 📊 GitHub Stats
-[![Chris's github stats](https://github-readme-stats.vercel.app/api?username=VChristinne&theme=nord&include_all_commits=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
-[![Chris's github trophy](https://github-profile-trophy.vercel.app/?username=VChristinne&row=1&title=-Stars,-Followers,-Issues,-Reviews&theme=nord&margin-w=3&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+A Swift developer focused on building native applications for Apple platforms (iPhone, iPad, and Mac) using Swift and SwiftUI. 
+Currently participating in the Swift Challenge Student 2026.
+
+### Tech & Languages
+
+![Swift](https://img.shields.io/badge/Swift-orange?logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-Framework-orange?logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+
+### Tools & Practices
+
+![MVVM](https://img.shields.io/badge/MVVM-Pattern-6f42c1)
+![SwiftData](https://img.shields.io/badge/SwiftData-Persistence-0A84FF?logo=swift&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-purple?logo=figma&logoColor=white)
